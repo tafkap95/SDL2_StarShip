@@ -6,3 +6,7 @@ gGame::gGame()
     this->nb_life = 3;
     this->high_score = 0;
 }
+
+gGame::~gGame()
+{
+}

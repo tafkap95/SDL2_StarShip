@@ -164,6 +164,7 @@ int main( int argc, char * argv[] )
                    switch (m_action)
                    {
                     case 0:
+                        myMenu.set_continue(0);
                         break;
 
                     case 1:
